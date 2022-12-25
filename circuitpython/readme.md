@@ -6,4 +6,6 @@ supervisor.reload()
 
 --
 
+import microcontroller
+
 microcontroller.reset()
